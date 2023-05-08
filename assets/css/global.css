@@ -67,6 +67,16 @@ opacity: 50%;
     border-radius: 1rem;  
     
 }
+.pokemon#water {
+    display: flex;
+    flex-direction: column;
+    margin: .5rem;
+    padding: 1rem;
+    background-color: #4baff1;
+    color: #fff;
+    border-radius: 1rem;  
+    
+}
 .pokemons {
     display: grid;
     grid-template-columns: 1fr 1fr;

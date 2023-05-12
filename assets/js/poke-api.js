@@ -3,8 +3,7 @@
 const pokeApi = {}
 
 pokeApi.getPokemonDetail = (pokemon) => {
-    return fetch(pokemon.url)
-      .then((response) => response.json())
+    return fetch(pokemon.url).then((response) => response.json())
 }
 
 pokeApi.getPokemons = (offset = 0, limit = 5) => {
@@ -13,10 +12,8 @@ pokeApi.getPokemons = (offset = 0, limit = 5) => {
     return fetch(url)
         .then((response) => response.json())
         .then((jsonBody) => jsonBody.results)
-        .then((pokemons) => pokemons.map(pokeApi.getPokemonDetail)
+        .then((pokemons) => pokemons.map(pokeApi.getPokemonDetail))
         .then((detailRequests) => Promise.all(detailRequests))
-        .then((pokemonsDetails) => {
-            console.log(pokemonsDetails)
-        })
-        .catch((error) => console.error(error))
-}
+        .then((pokemonsDetails) => pokemonsDetails)
+        }
+        

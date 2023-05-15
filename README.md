@@ -1,4 +1,4 @@
-<img src="assets/imgs/logo.svg" align="center">
+<img src="assets/img/pokedex 2023.JPG" align="center">
 
 [Pokedex](https://hiltonesjr.github.io/mundo-invertido-dio-aula/) <br>
 

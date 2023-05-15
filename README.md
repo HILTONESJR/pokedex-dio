@@ -1,6 +1,6 @@
 <img src="images/banner/logo.svg" align="center">
 
-[MUNDO INVERTIDO DIO AULA](https://hiltonesjr.github.io/mundo-invertido-dio-aula/) <br>
+[Pokedex](https://hiltonesjr.github.io/mundo-invertido-dio-aula/) <br>
 
 
 <h1> Ferramentas Usadas </h1>

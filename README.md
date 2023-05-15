@@ -1,7 +1,10 @@
-<img src="assets/img/pokedex 2023.JPG" align="center">
 
 [Pokedex](https://hiltonesjr.github.io/mundo-invertido-dio-aula/) <br>
 
+
+Projeto de Estudos criando uma podekex
+
+<img src="assets/img/pokedex 2023.JPG" align="center">
 
 <h1> Ferramentas Usadas </h1>
 <ul>

@@ -18,16 +18,15 @@ Projeto de Estudos criando uma podekex
 <HR>
 <ul>
 
-<li>Classes</li>
-<li>Containers</li>
-<li>Sections</li>
-<li>Variaveis</li>
-<li>Estilos de Fontes</li>
-<li>Rotações e Transições</li>
-<li>Alinhamentos e Espaçamentos</li>
+<li>API</li>
+<li>Requisições/li>
+<li>Promessas</li>
+<li>For Loop</li>
+<li>Conversão de HTML</li>
+<li>Converções Json</li>
+<li>If - Else</li>
 </ul>
 <HR>
 
-Projeto desenvolvendo uma ladding page, tema Stranger Things Mundo Invertido, fornecido pela semana do front-end pela dio.
 
 Projeto de estudo dio + inicialização a ultilização do GIT

@@ -6,7 +6,7 @@ Projeto de Estudos criando uma podekex
 
 <img src="assets/img/pokedex 2023.JPG" align="center">
 
-<h1> Ferramentas Usadas </h1>
+<h1> Ferramentas Utilizadas </h1>
 <ul>
 
 <li>HTML</li>

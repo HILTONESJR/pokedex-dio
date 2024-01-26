@@ -1,5 +1,5 @@
 
-[Pokedex](https://hiltonesjr.github.io/mundo-invertido-dio-aula/) <br>
+[Pokedex](hiltonesjr.github.io/pokedex-dio/) <br>
 
 
 Projeto de Estudos criando uma podekex
